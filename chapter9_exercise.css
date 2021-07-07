@@ -30,7 +30,7 @@ background-color: rgb(255, 154, 75);
 }
 
 .image1{
-background-image: url(img1-9/flow01.png);
+background-image: url(flow01.png);
 height: 150px;
 background-position: bottom;
 background-size: cover;
@@ -44,7 +44,7 @@ background-size: cover;
 }
 
 .image2{
-  background-image: url(img1-9/flow02.png);
+  background-image: url(flow02.png);
   height: 150px;
   background-position: bottom;
   background-size: cover;
@@ -52,7 +52,7 @@ background-size: cover;
 
 
 .image3{
-    background-image: url(img1-9/flow03.png);
+    background-image: url(flow03.png);
     height: 150px;
     background-position: bottom;
     background-size: cover;
